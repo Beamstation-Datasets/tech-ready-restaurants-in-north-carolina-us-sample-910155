@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a129fce4-4a84-4a60-a104-54c22429bf62",
+  "id_short": 910155,
+  "published_at": "2026-04-15T19:25:32Z",
+  "repo_name": "tech-ready-restaurants-in-north-carolina-us-sample-910155",
+  "sample_asset_name": "beamstation_910155_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/910155/beamstation_910155_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "4f24bd398d321c7f301a032f188b7fc53da17f013d054e16712e74fe84099d78",
+  "sample_size_bytes": 51908,
+  "total_records": 153
+}
