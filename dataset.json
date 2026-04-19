@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in North Carolina, US",
-  "export_job_id": "a129fce4-4a84-4a60-a104-54c22429bf62",
+  "export_job_id": "11fc8385-efd3-474e-b98c-2b4e032b110f",
   "github_org": "Beamstation-Datasets",
   "id_short": 910155,
   "location_name": "North Carolina",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-north-carolina-us-sample-910155",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/910155/beamstation_910155_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_pct": 6.54,
+  "sample_pct": 10.0,
   "sample_records": 10,
   "sample_sha256": "4f24bd398d321c7f301a032f188b7fc53da17f013d054e16712e74fe84099d78",
   "sample_size_bytes": 51908,
-  "total_records": 153,
-  "updated_at": "2026-04-08T06:52:30.813275+00:00"
+  "total_records": 100,
+  "updated_at": "2026-04-15T10:22:31.949934+00:00"
 }
