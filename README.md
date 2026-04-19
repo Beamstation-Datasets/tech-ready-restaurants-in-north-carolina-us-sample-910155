@@ -9,9 +9,9 @@
 | Dataset ID | `910155` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 153 records |
-| Free sample size | 10 records (6.54%) |
-| Last export | 2026-04-08T06:52:30.813275+00:00 |
+| Full dataset size | 100 records |
+| Free sample size | 10 records (10.0%) |
+| Last export | 2026-04-15T10:22:31.949934+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-north-carolina-us-sample-910155/releases/download/sample-latest/beamstation_910155_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
