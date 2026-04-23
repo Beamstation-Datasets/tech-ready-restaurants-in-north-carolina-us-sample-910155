@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in North Carolina, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `910155` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 100 records |
-| Free sample size | 10 records (10.0%) |
-| Last export | 2026-04-15T10:22:31.949934+00:00 |
+| Full dataset size | 43 records |
+| Free sample size | 4 records (9.3%) |
+| Last export | 2026-04-22T17:46:31.385144+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-north-carolina-us-sample-910155/releases/download/sample-latest/beamstation_910155_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
